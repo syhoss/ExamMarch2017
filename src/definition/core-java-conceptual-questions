@@ -1,0 +1,33 @@
+Please answer the below core-java Questions:
+
+
+What jdk contains or composed of and define each components?
+What is IDE?
+What are the IDEs available in the market to support java?
+Explain the entire java life cycle.
+what is class?
+What is object?
+What is the entry point of an application?
+Why main is static?
+What is the difference between an Interface and Abstract class?
+Can you make an Object from an Interface and Abstract class ? if not how do you use it ?
+what is Access Specifier?
+What is OOP ? Define each feature of java OOP.
+What is API? Name list of API that you have used so far.
+Does java support multiple inheritance?
+What is method overloading and when it happens?
+What is method overriding and when it happens?
+Explain exceptions in java and how to handle it.
+What is static keyword in java? How it has been used in variables and methods ?
+What is final and how it has been used variables and methods?
+What is final, finally and finalize?
+What is a constructor ?
+What is "this" keyword in java ?
+What is "super" keyword in java?
+What is JVM stand for ?
+What version of java are you using?
+What is JAR stand for ?
+What is compile time and run time?
+What is heap?
+How java manage it's memory?
+What is the difference between String, StringBuffer and StringBuilder?

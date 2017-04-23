@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StudentInfo>
+  <student id="1">
+    <firstName>"Sharif"</firstName>
+    <lastName>"Uddin"</lastName>
+    <score>85</score>
+  </student>
+    <student id="2">
+    <firstName>"Asif"</firstName>
+    <lastName>"Roni"</lastName>
+    <score>95</score>
+  </student>
+  <student id="3">
+    <firstName>"Kafil"</firstName>
+    <lastName>"Codelab"</lastName>
+    <score>90</score>
+  </student>
+  <student id="4">
+    <firstName>"Huda"</firstName>
+    <lastName>"Parking Issue"</lastName>
+    <score>88</score>
+  </student>
+  <student id="5">
+    <firstName>"Aisha"</firstName>
+    <lastName>"Loop Issue"</lastName>
+    <score>78</score>
+  </student>
+</StudentInfo>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
