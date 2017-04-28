@@ -24,10 +24,21 @@ public class LowestNumber {
 		} catch (Exception e) {
 			e.printStackTrace();
 		}
+		FindLowestNumber(lowestValue);
 		System.out.println("Data is reading from the Table (tbl_primenumber) and displaying to the console");
 		for(String st:lowestValue){
 			System.out.println(st);
 		}
+	}
+	public int FindLowestNumber(int[] numberList) {
+		int smallest = numberList[0];
+		
+		for (int i=1; i < numberList.length; i++) {
+			if (numberList[i] < smallest)
+				smallest = numberList[i];
+		}
+		System.out.println("The lowest number of this array: " + smallest);
+		return smallest;
 	}
 
 }
